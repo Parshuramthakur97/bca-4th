@@ -5,3 +5,6 @@ complete full stack project
 ```bash
 git clone https://github.com/Parshuramthakur97/bca-4th.git
 ```
+2. after creating file we need to create init
+```bash
+git init
